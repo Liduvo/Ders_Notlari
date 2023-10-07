@@ -1,2 +1,3 @@
-# Ders_Notlari
-Ders Notları
+# Notlar
+
+
